@@ -4,7 +4,7 @@ import randomcolor
 
 t = turtle.Turtle()
 
-starsNumber = 1
+starsNumber = 5
 
 def draw_star(x, y, multiplier, color):
     t.penup()
